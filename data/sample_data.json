@@ -1,0 +1,18 @@
+[
+  {
+    "warehouse_id": "MSK",
+    "product": "cable",
+    "stock": 120,
+    "daily_usage": 30,
+    "delivery_delay": 2,
+    "supplier": "A"
+  },
+  {
+    "warehouse_id": "SPB",
+    "product": "router",
+    "stock": 50,
+    "daily_usage": 20,
+    "delivery_delay": 5,
+    "supplier": "B"
+  }
+]
